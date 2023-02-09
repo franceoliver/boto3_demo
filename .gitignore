@@ -1,6 +1,6 @@
 #Custom
 access_keys
-S3/src/DATA
+src_s3/DATA
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
